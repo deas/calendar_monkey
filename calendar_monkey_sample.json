@@ -1,0 +1,11 @@
+{
+    "graph" : {
+        "authority": "https://login.microsoftonline.com/<tenant_id_here>",
+        "username": "<username_here>",
+        "password": "<password_here>",
+        "client_id": "<client_id_here>",
+        "scope": ["https://graph.microsoft.com/.default"],
+        "cache_path": "my_cache.bin"
+    },
+    "timezone": "Europe/Berlin"
+}
